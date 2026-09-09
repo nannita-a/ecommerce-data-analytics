@@ -259,5 +259,3 @@ Los índices creados son:
 - ix_sales_payment_key
 
 Estos índices no son únicos porque un mismo cliente, producto, tienda, fecha o método de pago puede aparecer en múltiples ventas.
-
-## 8. Resumen del modelo
